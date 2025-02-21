@@ -1,0 +1,7 @@
+X,373,ffffffff,-23,16,N,-328,0.01,1,138,101,113,Battery_Pack_Amps,128,128,128,0,N,0,1,0x373,Battery_Pack_Amps
+X,285,ffffffff,-7,16,N,-2000,1,1,144,36,12,acceleration,128,128,128,0,N,0,1,0x285,acceleration
+X,696,ffffffff,-23,16,N,-500,1,1,150,0,117,motor_torque_request,128,128,128,0,N,0,1,0x696,motor_torque_request
+X,696,ffffffff,-55,16,N,-10000,1,1,0,85,255,regen,128,128,128,0,N,0,1,0x696,regen
+X,696,ffffffff,-7,16,N,-1000,1,1,0,255,0,unkown_double1,128,128,128,0,N,0,1,0x696,unkown_double1
+X,696,ffffffff,-39,8,N,0,1,1,32,74,127,unkown_byte_1,128,128,128,0,N,0,1,0x696,unkown_byte_1
+X,696,ffffffff,-47,8,N,0,1,1,19,45,96,unkown_byte_2,128,128,128,0,N,0,1,0x696,unkown_byte_2

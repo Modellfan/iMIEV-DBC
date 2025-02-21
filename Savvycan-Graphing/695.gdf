@@ -1,0 +1,5 @@
+X,285,ffffffff,-7,16,N,-2000,1,1,138,129,17,acceleration,128,128,128,0,N,0,1,0x285,acceleration
+X,696,ffffffff,-23,16,N,-500,1,1,88,122,145,motor_torque_request,128,128,128,0,N,0,1,0x696,motor_torque_request
+X,695,ffffffff,-63,8,N,0,1,1,129,118,20,two_level,128,128,128,0,N,0,1,0x695,two_level
+X,696,ffffffff,-55,16,N,-10000,1,1,108,81,120,regen,128,128,128,0,N,0,1,0x696,regen
+X,285,ffffffff,-63,8,N,0,1,1,127,18,7,drive_or_reverse,128,128,128,0,N,0,1,0x285,drive_or_reverse

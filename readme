@@ -1,0 +1,7 @@
+For the inverter I extracted the following messages by man-in-the-middle-attack:
+
+Ingoing:
+0x285
+
+Outgoing:
+0x288, 0x298, 0x29A, 0x564, 0x565, 0x75A, 0x75B
