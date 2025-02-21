@@ -1,5 +1,9 @@
-For the inverter I extracted the following messages by man-in-the-middle-attack:
+DBC started with this:
+https://github.com/slackspace-io/imiev-dbc
+https://myimiev.com/threads/can-network-reverse-engineering-creating-dbc-imiev.5788/
+https://myimiev.com/threads/decyphering-imiev-and-ion-car-can-message-data.763/page-6
 
+For the inverter I extracted the following messages by man-in-the-middle-attack:
 Ingoing:
 0x285
 
